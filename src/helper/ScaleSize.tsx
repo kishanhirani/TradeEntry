@@ -1,0 +1,28 @@
+import { getLayoutSize, height, width } from './Responsive';
+
+export const ScaleSize = {
+  height,
+  width,
+  SPACING_2: getLayoutSize(2),
+  SPACING_4: getLayoutSize(4),
+  SPACING_5: getLayoutSize(5),
+  SPACING_10: getLayoutSize(10),
+  SPACING_15: getLayoutSize(15),
+  SPACING_20: getLayoutSize(20),
+  SPACING_25: getLayoutSize(25),
+  SPACING_30: getLayoutSize(30),
+  SPACING_35: getLayoutSize(35),
+  SPACING_40: getLayoutSize(40),
+  SPACING_45: getLayoutSize(45),
+  SPACING_50: getLayoutSize(50),
+  SPACING_55: getLayoutSize(55),
+  SPACING_60: getLayoutSize(60),
+  SPACING_65: getLayoutSize(65),
+  SPACING_70: getLayoutSize(70),
+  SPACING_75: getLayoutSize(75),
+  SPACING_80: getLayoutSize(80),
+  SPACING_85: getLayoutSize(85),
+  SPACING_90: getLayoutSize(90),
+  SPACING_95: getLayoutSize(95),
+  SPACING_100: getLayoutSize(100),
+};

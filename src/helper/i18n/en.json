@@ -1,0 +1,21 @@
+{
+  "str_login": "Login",
+  "enter_your_number": "Enter your \nmobile number",
+  "opt_will_be_sent_to_your_number":"OTP will be sent to your mobile number",
+  "enter_your_mobile_number":"Enter your Mobile Number",
+  "enter_10_digit_number":"Enter 10 digit mobile number",
+  "continue":"Continue",
+  "invalid_email_format":"Incorrect email ID format",
+  "resend":"Resend",
+  "enter_otp":"Enter OTP",
+  "otp_sent_to":"OTP sent to ",
+  "your_name":"Your name",
+  "your_email":"Your Email ID",
+  "required":"Required",
+  "more":"More",
+  "home":"Home",
+  "can_wallet":"Can Wallet",
+  "cart":"Cart",
+  "refer":"Refer"
+
+}
